@@ -60,9 +60,8 @@
 
 ### 📫 Contacto
 
-- 📧 patitower@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/tu-usuario)  
-- 📁 [Portafolio o CV (Drive)](https://drive.google.com/tu-link)
+- 📧 carlosahs13@gmail.com  
+- 🌐 [LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/carlos-alberto-hernández/))  
 
 ---
 
