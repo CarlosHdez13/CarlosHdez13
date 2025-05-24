@@ -48,7 +48,8 @@
 ### 📫 Contacto
 
 - 📧 carlosahs13@gmail.com  
-- 🌐 [LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/carlos-alberto-hernández/))  
+- 🌐 [LinkedIn](https://linkedin.com/in/carlos-alberto-hernández/) 
+  
 
 ---
 
