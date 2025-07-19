@@ -11,7 +11,7 @@
 
 - 🎓 Ingeniero en Sistemas Computacionales
 - 🧠 Egresado del bootcamp de **Data Science** en [TripleTen](https://tripleten.com/)
-- 💼 Experiencia desarrollando sistemas a la medida con Laravel, PHP y JavaScript
+- 💼 Experiencia desarrollando sistemas a la medida con Laravel, PHP, JavaScript, Python, Pandas, Sklearn, Sql
 - 📊 Analizo datos, construyo modelos de Machine Learning y visualizaciones
 - 👨‍💻 He trabajado con metodologías ágiles como Scrum y clásicos como Cascada
 
@@ -48,8 +48,7 @@
 ### 📫 Contacto
 
 - 📧 carlosahs13@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/carlos-alberto-hernández/) 
-  
+- 🌐 [LinkedIn](https://linkedin.com/in/carloshernandez-datascientist/) 
 
 ---
 
