@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola! Soy Carlos Hernández 👋</h1>
 
 <p align="center">
-  🧠 <strong>Desarrollador de software & Data Scientist</strong><br>
-  💻 Apasionado por crear soluciones funcionales y limpias con código.
+  🧠 <strong>Científico de Datos | Ingeniero en Sistemas Computacionales</strong><br>
+  💻  Desarrollador en Midoconline | Visualización de Datos | Analisis de Datos | Machine Learning | Python | Sql | Pandas
 </p>
 
 ---
