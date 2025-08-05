@@ -10,7 +10,7 @@
 ### 🚀 Sobre mí
 
 - 🎓 Ingeniero en Sistemas Computacionales
-- 🧠 Egresado del bootcamp de **Data Science** en [TripleTen](https://tripleten.com/)
+- 🧠 Egresado del bootcamp de **Data Scientist** en [TripleTen](https://tripleten.com/)
 - 💼 Experiencia desarrollando sistemas a la medida con Laravel, PHP, JavaScript, Python, Pandas, Sklearn, Sql
 - 📊 Analizo datos, construyo modelos de Machine Learning y visualizaciones
 - 👨‍💻 He trabajado con metodologías ágiles como Scrum y clásicos como Cascada
@@ -28,7 +28,7 @@
 **Bases de Datos:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-**Herramientas de Data Science:**  
+**Herramientas de Data Scientist:**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
 
 **Otros:**  
